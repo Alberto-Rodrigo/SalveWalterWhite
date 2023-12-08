@@ -1,0 +1,61 @@
+html{
+    background: #1ba11a url(../img/tile.png) top left repeat;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    padding: 0;
+    margin: 0;
+}
+.walterprincipal{
+    margin: 0% auto;
+    padding: 10px;
+    text-align: center;
+    width: 965px;
+}
+.sub{
+    color: yellow;
+    font-size: 40px;
+    font-weight: normal;
+    margin: 0;
+}
+h1{
+    color: white;
+    font-size: 112px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding-top: 12px;
+}
+.waltersecudario{
+    text-align: center;
+    margin: 10px 0;
+}
+.waltersecudario img {
+    padding: 20px;
+    border: none;
+    vertical-align: top;
+}
+.walterterceiro{
+    text-align: center;
+}
+.waltertexto{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.2em;
+    color: yellow;
+}
+.walterquinto img{
+    padding: 80px;
+    border: none;    
+    margin-top: -80px;
+}
+.walterquinto{
+    text-align: center;
+}
+.waltertexto2{
+    text-align: center;
+    color: white;
+    font-size: 21px;
+    font-weight: bold;
+}
+.waltertexto2 p{
+    margin-top: -60px;
+}
